@@ -176,7 +176,6 @@ $(function(){
       $btn.text(originalText).prop('disabled', false);
       showNotification('Error de conexión. Inténtalo de nuevo.', 'error');
     });
-    });
   });
 });
 })(jQuery);
