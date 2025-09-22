@@ -1,0 +1,1 @@
+<?php if(!defined('ABSPATH'))exit; final class DLWA_Plugin{public static function init(){}}
