@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DL WhatsApp Replace Checkout 2.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: dl-whatsapp-replace-checkout.php
+msgid "DL WhatsApp Replace Checkout requires WooCommerce to be installed and active."
+msgstr ""
+
+#: includes/class-dlwa-admin.php
+msgid "DL WhatsApp Checkout"
+msgstr ""
+
+msgid "DL WA Checkout"
+msgstr ""
+
+msgid "WhatsApp Phone (E.164)"
+msgstr ""
+
+msgid "Enable Floating Cart"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Safe mode (shortcode only)"
+msgstr ""
+
+msgid "Do not load floating cart globally."
+msgstr ""
+
+msgid "Shipping line (info only)"
+msgstr ""
+
+msgid "WhatsApp button color"
+msgstr ""
+
+msgid "Floating cart button color"
+msgstr ""
+
+#: templates/shortcode-checkout.php
+msgid "Finalizar pedido (WhatsApp)"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Nombre (opcional)"
+msgstr ""
+
+msgid "Teléfono (opcional)"
+msgstr ""
+
+msgid "Email (opcional)"
+msgstr ""
+
+msgid "Región (opcional)"
+msgstr ""
+
+msgid "Dirección (opcional)"
+msgstr ""
+
+msgid "Nota (opcional)"
+msgstr ""
+
+msgid "Enviar por WhatsApp"
+msgstr ""
